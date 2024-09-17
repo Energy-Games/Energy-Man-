@@ -1,0 +1,17 @@
+{
+  "name": "pacish-man",
+  "version": "1.0.0",
+  "description": "Making a pac man like game with AI",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "Colin & Matthew",
+  "license": "MIT",
+  "dependencies": {
+    "react": "^18.3.1"
+  },
+  "devDependencies": {
+    "typescript": "^5.6.2"
+  }
+}
