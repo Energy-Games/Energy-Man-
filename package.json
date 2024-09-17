@@ -3,13 +3,18 @@
   "version": "1.0.0",
   "description": "Making a pac man like game with AI",
   "main": "index.js",
+  "type": "module",
   "scripts": {
     "test": "jest"
   },
   "author": "Colin & Matthew",
   "license": "MIT",
   "dependencies": {
-    "react": "^18.3.1"
+    "@types/react": "^18.3.7",
+    "@types/react-dom": "^18.3.0",
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1",
+    "react-router-dom": "^6.26.2"
   },
   "devDependencies": {
     "typescript": "^5.6.2"
